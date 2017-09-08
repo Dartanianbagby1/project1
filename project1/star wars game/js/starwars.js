@@ -1,0 +1,1 @@
+$('#anaka').sprite({fps: 12, no_of_frames: 3});

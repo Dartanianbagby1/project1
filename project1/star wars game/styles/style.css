@@ -1,0 +1,11 @@
+body {
+	background: url("http://www.fightersgeneration.com/nz3/game/kof99/kof99-stage-krizalid2-animate.gif") no-repeat top;
+	background-size: 200%;
+
+}
+
+#anaka {
+	height: 150px;
+	width: 150px;
+	background: url('images/anaka.png') left center;
+}
